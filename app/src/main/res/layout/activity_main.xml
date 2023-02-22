@@ -12,4 +12,19 @@
         android:layout_height="wrap_content"
         app:ctbTitle="Налаштування профілю" />
 
+<!--    <ua.itvdn.myfirstapplication.avatarimageview.AvatarImageViewMask-->
+<!--        android:layout_width="300dp"-->
+<!--        android:layout_height="200dp"-->
+<!--        android:src="@drawable/maseratti"/>-->
+
+<!--    <ua.itvdn.myfirstapplication.avatarimageview.AvatarImageViewShader-->
+<!--        android:layout_width="300dp"-->
+<!--        android:layout_height="200dp"-->
+<!--        android:src="@drawable/maseratti"/>-->
+
+    <ua.itvdn.myfirstapplication.testofpiechart.AvatarImageViewShader
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:src="@drawable/maseratti"/>
+
 </LinearLayout>
