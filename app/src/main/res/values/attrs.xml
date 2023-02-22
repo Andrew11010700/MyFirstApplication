@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomToolbar">
+        <attr name="ctbTitle" format="string" />
+        <attr name="ctbEndDrawable" format="reference" />
+        <attr name="ctbStartDrawable" format="reference" />
+        <attr name="ctbBackgroundDrawable" format="reference" />
+        <attr name="ctbIsBtnStart" format="boolean" />
+        <attr name="ctbIsBtnEnd" format="boolean" />
+        <attr name="ctbEndIconTint" format="color" />
+        <!-- title color -->
+        <attr name="ctbColor" format="color" />
+    </declare-styleable>
+
+</resources>
